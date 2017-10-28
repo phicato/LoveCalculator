@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PureJava.iml" filepath="$PROJECT_DIR$/PureJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ibm/ibm.iml" filepath="$PROJECT_DIR$/ibm/ibm.iml" />
       <module fileurl="file://$PROJECT_DIR$/javapractice/javapractice.iml" filepath="$PROJECT_DIR$/javapractice/javapractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/loveCalculator/loveCalculator.iml" filepath="$PROJECT_DIR$/loveCalculator/loveCalculator.iml" />
     </modules>
